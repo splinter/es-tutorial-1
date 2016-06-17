@@ -6,7 +6,7 @@
 - Add the following line to the {CARBON_HOME}/repository/deployment/server/jaggeryapps/publisher/themes/default/pages/single-col-fluid.hbs:
 ```html
     <!-- Custom icons -->
-    <link href="{{url "/themes/store/css/my-icons.css"}}" rel="stylesheet">
+    <link href="{{url "/themes/default/css/my-icons.css"}}" rel="stylesheet">
 ```
 
 #Alter the Store application
