@@ -1,0 +1,10 @@
+.my-icon {
+  background: transparent url(../img/gadget.png) no-repeat center;
+  padding: 9px;
+}
+
+.my-icon.fw-lg {
+ width:30px;
+ height:30px;
+}
+
